@@ -18,7 +18,7 @@ My Portfolio Website For Data Analysis
 
 ## 🏆 Hackathon
 
-Participated in the Data Innovation Hackathon (SDAIA × GASTAT), focused on building data-driven solutions using real-world datasets.
+Participated in the Data Innovation Hackathon organized by SDAIA and the General Authority for Statistics (SDAIA × GASTAT), focused on building data-driven solutions using real-world datasets.
 
 - **GigScope (Signal X Team)**  
   👉 (https://github.com/RahafAlharbi4/SignalX-Hackathon-Project)
