@@ -11,8 +11,11 @@ This repository includes coursework and academic projects in:
 All projects were completed as part of my Management Information Systems studies.
 
 
-My Portfolio Website For Data Analysis
-👉 (https://rahaf-sa-portfolio.netlify.app/)
+## 📊 Portfolio Website
+
+My personal portfolio showcasing data analysis projects, dashboards, and case studies.
+
+🔗 View Portfolio: https://rahaf-sa-portfolio.netlify.app/
 
 
 
